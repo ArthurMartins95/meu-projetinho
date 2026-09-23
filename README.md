@@ -1,4 +1,4 @@
-#HTML para a iniciantes
+## HTML para a iniciantes
 
 ## Objetivo
 Mini Curso sobre os Fundamentos Básicos do HTML e CSS
